@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Wie Awesome!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -11,6 +11,9 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ## I'm Awesome
 Ananas is awesome. Me too.
+
+## Welcome
+welcome on this page
 
 ## Update Author Attributes
 
