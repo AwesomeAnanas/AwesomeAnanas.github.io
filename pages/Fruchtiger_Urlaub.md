@@ -7,7 +7,7 @@ title: Ein fruchtiger Urlaub
 
 ![image](/assets/images/PXL_20230722_151959590.PORTRAIT.ORIGINAL.jpg){:width="50%"}
 
-mnaaaa, wir fahren in Urlaub. Maulone-Maulfahrer wird langsam sauer und Kleinbanani muss aufs klo. 
+mnaaaa, wir fahren in Urlaub. Maulone-Maulfahrer mutiert langsam von Melone zu Maulbeere und Kleinbanani muss aufs klo. 
 Nur AwesomeAnananas war gut gelaunt und frisch wie immer.
 
 Der schöne Rhein wartet auf uns!
