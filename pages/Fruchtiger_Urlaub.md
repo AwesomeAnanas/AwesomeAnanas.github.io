@@ -14,4 +14,4 @@ Der schöne Rhein wartet auf uns!
 ![image](/assets/images/PXL_20230725_144552611.jpg){:width="50%"}
 
 Wir hatten viel Spass und sind fruchtnass zurückgefahren!
-![image](/assets/images/ezgif.com-video-to-gif.gif{:width="100%"}
+![image](/assets/images/ezgif.com-video-to-gif.gif){:width="100%"}
