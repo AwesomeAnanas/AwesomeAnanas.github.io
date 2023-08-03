@@ -15,3 +15,6 @@ Der schöne Rhein wartet auf uns!
 
 Wir hatten viel Spass und sind fruchtnass zurückgefahren!
 ![starker Regen](/assets/images/ezgif.com-video-to-gif.gif){:width="60%"}
+
+Gameboy Mario war auch mit dabei!
+![Gameboy auf dem Pc](/assets/images/PXL_20230725_110034762.MP.jpg){:width="75%"}
