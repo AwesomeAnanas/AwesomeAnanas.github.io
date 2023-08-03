@@ -11,4 +11,4 @@ mnaaaa, wir fahren in Urlaub. Maulone-Maulfahrer wird langsam sauer und Kleinban
 Nur AwesomeAnananas war gut gelaunt und frisch wie immer.
 
 Der schöne Rhein wartet auf uns!
-![image](/assets/images/PXL_20230725_144552611.jpg)upate{:width="50%"}
+![image](/assets/images/PXL_20230725_144552611.jpg){:width="50%"}
